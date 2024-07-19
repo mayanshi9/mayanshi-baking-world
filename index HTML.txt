@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayanshi's Baking World</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Mayanshi's Baking World!</h1>
+        <p>Explore fun and delicious recipes from my YouTube channel.</p>
+    </header>
+    <main>
+        <section id="recipes">
+            <h2>Our Recipes</h2>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=video1" target="_blank">Chocolate Chip Cookies</a></li>
+                <li><a href="https://www.youtube.com/watch?v=video2" target="_blank">Rainbow Cupcakes</a></li>
+                <li><a href="https://www.youtube.com/watch?v=video3" target="_blank">Banana Bread</a></li>
+                <!-- Add more recipes here -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Follow me on <a href="https://www.youtube.com/c/MayanshiDaruka" target="_blank">YouTube</a> for more recipes!</p>
+    </footer>
+</body>
+</html>

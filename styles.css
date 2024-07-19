@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background-color: #ffcc99;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #5c4033;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+main {
+    padding: 20px;
+}
+
+section#recipes {
+    background-color: #fff8e1;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+a {
+    text-decoration: none;
+    color: #b35900;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #ffcc99;
+    text-align: center;
+    padding: 10px;
+}
